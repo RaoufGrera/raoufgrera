@@ -1,5 +1,5 @@
-### I'm Raouf from North Africa.
-I am working as a full-stack developer, I have been working on the postal addressing project at Libya post company, I have developed many web and mobile and desktop apps, Also I worked as web developer for 6 years with ASP.NET, C#, Laravel, JavaScript, Vue.js, Next.js and Flutter for mobile.
+### I'm Raouf, I'm working as a full-stack developer.
+I have been working on the postal addressing project at Libya post company, I have developed many web and mobile and desktop apps, Also I worked as web developer for 6 years with ASP.NET, C#, Laravel, JavaScript, Vue.js, Next.js and Flutter for mobile.
 
 - ⚡ [LibyaCV.com](https://libyacv.com)
 - ⚡ [MyLetter.app](https://myletter.app)
