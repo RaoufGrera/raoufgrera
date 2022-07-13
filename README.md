@@ -1,9 +1,9 @@
-### Hi I'm Raouf from seventh worst country in corruption.
-I am working as a full-stack developer, I have been working on the postal addressing project at Libya post company, I have developed many web and mobile and desktop apps, Also I worked as web developer for 6 years with .Net, C#, Laravel, PHP, JavaScript, Vue.js, Next.js and Flutter for mobile.
+### Hi I'm Raouf from the seventh country in corruption.
+I am working as a full-stack developer, I have been working on the postal addressing project at Libya post company, I have developed many web and mobile and desktop apps, Also I worked as web developer for 6 years with ASP.NET, C#, Laravel, JavaScript, Vue.js, Next.js and Flutter for mobile.
 
-- ⚡ LibyaCV.com
-- ⚡ MyLetter.app
-- 🌱 I’m currently learning Desgin Patterns and Foucs on C# and Rust Language.
+- ⚡ [LibyaCV.com](https://libyacv.com)
+- ⚡ [MyLetter.app](https://myletter.app)
+- 🌱 I’m currently learning Design Patterns and Foucs on C# and Rust Language.
 
 <!--
 **raoufgr/raoufgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
