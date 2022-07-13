@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am working as a full-stack developer, I have been working on the postal addressing project at Libya post company, I have developed many web and mobile and desktop apps, Also I worked as web developer for 6 years whit .Net, C#, Laravel, PHP, JavaScript, Vue.js, Next.js and Flutter for mobile.
+
+- 🌱 I’m currently learning Desgin Patterns and Foucs on C# and Rust Language.
 
 <!--
 **raoufgr/raoufgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
