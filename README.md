@@ -3,11 +3,11 @@ I have been working on the postal addressing project at Libya post company, I ha
 
 - ⚡ [LibyaCV.com](https://libyacv.com)
 - ⚡ [MyLetter.app](https://myletter.app)
-- 🌱 I’m currently learning Design Patterns and Foucs on C# and Rust Language.
+
 
 <!--
 **raoufgr/raoufgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 🌱 I’m currently learning Design Patterns and Foucs on C# and Rust Language.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
