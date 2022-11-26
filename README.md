@@ -5,6 +5,7 @@ I have been working on the postal addressing project at Libya post company, I ha
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoufGrera&layout=compact&theme=dark&langs_count=6"/>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raoufgrera&label=Profile%20views&color=0e75b6&style=flat-square" alt="satnaing" /></p>
 
 - ⚡ [LibyaCV.com](https://libyacv.com)
 - ⚡ [MyLetter.app](https://myletter.app)
