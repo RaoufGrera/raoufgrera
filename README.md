@@ -4,7 +4,7 @@
 - Team leader for postal addressing application for Libya Post.
 - Web application developer for the SDI Libya project.
 - I have one of the leading job site in Libya, with 45K followers on Facebook.
-- I’m currently learning Rust and Typescript.
+- I’m currently learning Rust and exploring AI.
 
 
 
@@ -17,7 +17,6 @@
 
 - ⚡ [raoufgrera.com](https://raoufgrera.com)
 - ⚡ [LibyaCV.com](https://libyacv.com)
-- ⚡ [MyLetter.app](https://myletter.app)
 - 📫 raouf.grera@gmail.com
 
 <!--
@@ -33,4 +32,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ⚡ [MyLetter.app](https://myletter.app) 
+
 -->
