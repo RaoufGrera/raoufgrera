@@ -1,10 +1,5 @@
 ### I'm Raouf, I'm working as a full-stack developer.
 
-- Full-Stack Developer with 7 years experience.
-- Team leader for postal addressing application for Libya Post.
-- Web application developer for the SDI Libya project.
-- I have one of the leading job site in Libya, with 45K followers on Facebook.
-- I’m currently learning Rust and exploring AI.
 
 
 
@@ -26,6 +21,11 @@
 - 🌱 I’m currently learning Design Patterns and Foucs on C# and Rust Language.
 Here are some ideas to get you started:
 
+- Full-Stack Developer with 7 years experience.
+- Team leader for postal addressing application for Libya Post.
+- Web application developer for the SDI Libya project.
+- I have one of the leading job site in Libya, with 45K followers on Facebook.
+- I’m currently learning Rust and exploring AI.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
