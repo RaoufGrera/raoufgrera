@@ -17,7 +17,7 @@
 
 - ⚡ [raoufgrera.com](https://raoufgrera.com)
 - ⚡ [mywords.raoufgrera.com](https://mywords.raoufgrera.com)
-- ⚡ [Libyacv.com](https://libyacv.com)
+- ⚡ [libyacv.com](https://libyacv.com)
 - 📫 raouf.grera@gmail.com
 
 <!--
