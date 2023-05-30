@@ -9,9 +9,6 @@
 
 
 
-<p align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoufGrera&layout=compact&theme=dark&langs_count=6"/>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raoufgrera&label=Profile%20views&color=0e75b6&style=flat-square" alt="satnaing" /></p>
 
@@ -21,6 +18,10 @@
 - 📫 raouf.grera@gmail.com
 
 <!--
+
+<p align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoufGrera&layout=compact&theme=dark&langs_count=6"/>
+</p>
 **raoufgr/raoufgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🌱 I’m currently learning Design Patterns and Foucs on C# and Rust Language.
 Here are some ideas to get you started:
