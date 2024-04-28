@@ -12,7 +12,9 @@
 - ⚡ [mywords.grera.ly](https://mywords.grera.ly)
 - ⚡ [libyacv.com](https://libyacv.com)
 - 📫 raouf.grera@gmail.com
-
+<p align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoufGrera&layout=compact&theme=dark&langs_count=6"/>
+</p>
 <!--
 
 <p align="center">
