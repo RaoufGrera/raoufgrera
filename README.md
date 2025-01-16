@@ -13,7 +13,7 @@
 - ⚡ [libyacv.com](https://libyacv.com)
 - 📫 raouf.grera@gmail.com
 <p align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoufGrera&layout=compact&theme=dark&langs_count=8"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoufGrera&layout=compact&theme=dark&langs_count=10"/>
 </p>
 <!--
 
