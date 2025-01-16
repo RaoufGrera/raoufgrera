@@ -18,7 +18,7 @@
 <!--
 
 <p align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoufGrera&layout=compact&theme=dark&langs_count=6"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoufGrera&layout=compact&theme=dark&langs_count=10"/>
 </p>
 **raoufgr/raoufgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🌱 I’m currently learning Design Patterns and Foucs on C# and Rust Language.
